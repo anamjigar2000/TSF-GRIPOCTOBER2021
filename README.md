@@ -6,12 +6,13 @@ A Basic Banking System Application for making money transactions between users. 
 # Language Used - Java
 
 # Flow:
-Home Page
-View all Customers
-Select and View Sender
-Slect Receiver
-Select Amount
-Tranfer Money
-Transfer Success
-See Transaction History
+1. Home Page
+2. View all Customers
+3. Select and View Sender
+4. Slect Receiver
+5. Select Amount
+6. Tranfer Money
+7. Transfer Success
+8. See Transaction History
+
 Check the video for the project here -
