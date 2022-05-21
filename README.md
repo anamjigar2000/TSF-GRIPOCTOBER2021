@@ -15,4 +15,4 @@ A Basic Banking System Application for making money transactions between users. 
 7. Transfer Success
 8. See Transaction History
 
-Check the video for the project here -
+Check the video for the project here - https://youtu.be/BQN4cibbJPw
